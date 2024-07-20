@@ -46,7 +46,7 @@ public class NoteAppMenu {
         System.out.println("2. Tampilkan Catatan");
         System.out.println("3. Hapus Catatan");
         System.out.println("4. Keluar");
-        System.out.print("Pilih opsi: ");
+        System.out.print("Pilih opsi (1/2/3/4): ");
     }
 
     private int getUserChoice() {
